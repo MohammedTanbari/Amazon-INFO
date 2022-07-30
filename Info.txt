@@ -1,0 +1,16 @@
+Amazon Clone:
+-Priducts
+-users
+-Payments:
+          - paypal
+          - master card, visa card
+          - crypto
+- coupons
+- order:
+       - track order
+-----------
+- clean UI
+-fast
+-secure
+-api
+-advanced reports
